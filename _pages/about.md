@@ -1,15 +1,13 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hello!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-Hello!
 ------
 
-​	Welcome to my homepage! I am an economics researcher.
+​	My name is Peilin Yang. Welcome to my homepage! I am an economics researcher.
 
