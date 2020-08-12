@@ -2,7 +2,8 @@
 title: "Social Planner, Industrial Structure and Uncertainty for COVID-19"
 collection: publications
 permalink: /publication/EcoPlanning
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'We study the planning problem under the framework of social planner, and explore the
+dynamic characteristic of one-sector and two-sector model respectively. In order to reflect the risk aversion on the pandemic, we set an expected utility function for agents of the economy. Under certainty scenario, we explore the shock impact on one sector baseline and two-sector model. In light of uncertainty scenario, we construct a stochastic optimal control model to discern these two cases. Under uncertainty setting, the lockdown policy tends to be more rigid.'
 date: 2020-05-06
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/Ecoplanning.pdf'
