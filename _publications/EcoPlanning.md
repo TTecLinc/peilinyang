@@ -10,6 +10,6 @@ paperurl: 'http://tteclinc.github.io/files/Ecoplanning.pdf'
 
 ---
 
-[Download paper here](http://tteclinc.github.io/files/Ecoplanning.pdf)
+[Download paper here](http://tteclinc.github.io/peilinyang//files/Ecoplanning.pdf)
 
 <i>SIAM Journal on Control and Optimization</i>
