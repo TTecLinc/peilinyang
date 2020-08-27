@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -15,7 +15,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Economics, Nankai University, 2017-2021
+* B.A. in Economics and Actuarial Science, Nankai University, 2017-2021
 
   
 Skills
