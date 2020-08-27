@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-
-======
 [Download CV](https://tteclinc.github.io/peilinyang//files/CV.pdf)
 
 Education
