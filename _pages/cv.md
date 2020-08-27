@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV](https://tteclinc.github.io/peilinyang//files/CV.pdf)
-======
 
+======
+[Download CV](https://tteclinc.github.io/peilinyang//files/CV.pdf)
 
 Education
 ======
