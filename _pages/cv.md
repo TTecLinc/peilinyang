@@ -13,24 +13,15 @@ redirect_from:
 
 Education
 ======
-* B.A. in Economics and Actuarial Science, Nankai University, 2017-2021
+* B.A. in Economics, Nankai University, 2017-2021
 
   
 Skills
 ======
 * Highly Proficient
-  * Python (Data Processing, Plot, ArcGIS, Numerical Computation, Web Scraper) 
-  * MATLAB
-  * Stata
-  * LaTex
-  * R (ArcGIS, GeoDa) 
-  * Julia
+  * Python, MATLAB, Stata, R (ArcGIS, GeoDa), Julia
 * Familiar
-  * ArcGIS
-  * C++
-  * GAUSS
-  * HTML
-  * SQL
+  * ArcGIS, C++, GAUSS, HTML, SQL
  
 Publications
 ======
