@@ -1,16 +1,8 @@
----
-layout: archive
-title: "In Progress"
-permalink: /publications/
-author_profile: true
----
+In Progress 
+======
+Paper 1
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
+Paper 2
 
 ---
 layout: archive
