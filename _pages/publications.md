@@ -4,7 +4,8 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
-
+<font size=4>
+  
 In Progress 
 ======
 
@@ -26,3 +27,5 @@ Publications
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+</font>
