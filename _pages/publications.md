@@ -1,15 +1,17 @@
-In Progress 
-======
-Paper 1
-
-Paper 2
-
 ---
 layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+In Progress 
+======
+Paper 1
+
+Paper 2
+
+
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
