@@ -1,7 +1,7 @@
 ---
 title: "Online and Offline Industrial Structure Dynamics in COVID-19"
 collection: publications
-permalink: /publication/EcoPlanning
+permalink: /files/Ecoplanning.pdf
 excerpt: 'In order to flatten the curve of COVID-19 and reduce potential deaths, most countries have
 adopted lockdown policy. However, during lockdown period we found the market value of
 website establishments still go up. In this paper, our primary goal is to explain how this
