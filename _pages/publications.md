@@ -7,7 +7,7 @@ author_profile: true
   
 In Progress 
 ======
-
+<small>
 ## Rare Disaster Element in HANK 
 
 _2021, Peilin Yang_
@@ -20,7 +20,7 @@ _2021, Peilin Yang_
 
 I present a method for estimating dynamic HANK models using Bayesian estimation. The method combines the projection and perturbation solution method developed by Reiter (2009) with Bayesian estimation techniques. This combination allows the estimation procedure to incorporate in the estimation dataset time series of moments of the cross-sectional distribution of agents. I showed how the heterogeneous stochastic shock of TFP on the firms affects the micro and macro moment in the firms' distribution dynamics.
 
-
+</small>
 
 
 Publications and Working Papar
