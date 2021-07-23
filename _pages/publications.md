@@ -4,7 +4,20 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
-  
+
+Publications and Working Papar
+======
+
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
+
+{% include base_path %}
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
 In Progress 
 ======
 
@@ -19,19 +32,5 @@ _2021, Peilin Yang_
 _2021, Peilin Yang_
 
 <medium>I present a method for estimating dynamic HANK models using Bayesian estimation. The method combines the projection and perturbation solution method developed by Reiter (2009) with Bayesian estimation techniques. This combination allows the estimation procedure to incorporate in the estimation dataset time series of moments of the cross-sectional distribution of agents. I showed how the heterogeneous stochastic shock of TFP on the firms affects the micro and macro moment in the firms' distribution dynamics.</medium>
-
-
-Publications and Working Papar
-======
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
 
 
