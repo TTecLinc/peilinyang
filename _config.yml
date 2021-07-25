@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Predoctoral Research Fellow"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Peilin Yang"
 description              : &description "personal description"
