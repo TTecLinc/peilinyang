@@ -11,7 +11,7 @@ second part, we build a planning problem with industrial structure–online and 
 We show how lockdown policy will crowd out the offline sector and how that effect embodies
 on macro variables.'
 date: 2020-06-06
-venue: <i>Submit to SIAM Journal on Control and Optimization (with Xiaowei Chen)</i>
+venue: <i>Submit to SIAM Journal on Control and Optimization</i>
 paperurl: 'http://tteclinc.github.io/peilinyang//files/Ecoplanning.pdf'
 
 ---
