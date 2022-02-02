@@ -10,11 +10,6 @@ redirect_from:
 {% include base_path %}
 
 [Download CV](https://tteclinc.github.io/peilinyang//files/CV.pdf)
-
-Education
-======
-* B.A. in Economics, Nankai University, 2017-2021
-
   
 Skills
 ======
@@ -27,12 +22,6 @@ Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
   
