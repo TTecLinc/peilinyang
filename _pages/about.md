@@ -15,7 +15,7 @@ Please see my research [Research](https://tteclinc.github.io/peilinyang//publica
 
 Download Peilin's CV [Here](https://tteclinc.github.io/peilinyang//files/CV.pdf)
 
-Publications
+Research
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
