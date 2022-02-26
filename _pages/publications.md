@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Publications and Working Papar
+
 ======
 
 {% if author.googlescholar %}
