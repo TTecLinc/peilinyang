@@ -13,3 +13,9 @@ title: Research
 [Industry Structure and Wage Inequality during Pandemic](https://tteclinc.github.io/peilinyang//files/Inequality.pdf). 2022.
 
 [Maximize the Efﬁciency of Healthcare Matching: a Simple Modiﬁcation](https://tteclinc.github.io/peilinyang//files/Healthcare_matching.pdf). 2022. _a technical note on health care resources allocation system during pandemic_.
+
+### Works in Progress
+
+Narratives Business Cycle. 2022.
+
+Open-Economy Macroprudential Policy: International Financial Arbitrage Channel. 2022.
