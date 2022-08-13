@@ -16,6 +16,6 @@ title: Research
 
 ### Works in Progress
 
-Narratives Business Cycle. 2022.
+Narratives Business Cycle: Neoclassical or Production Networks? 2022.
 
 Open-Economy Macroprudential Policy: International Financial Arbitrage Channel. 2022.
