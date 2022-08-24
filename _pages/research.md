@@ -10,6 +10,8 @@ title: Research
 
 ### Working Paper
 
+[Conformal Inference for Heterogeneous Policy Effect](https://tteclinc.github.io/peilinyang//files/RP_conformal.pdf) (with Jiayi Cheng). 2022. _proposal of introducing conformal inference into the toolkit of policy evaluation_.
+
 [Industry Structure and Wage Inequality during Pandemic](https://tteclinc.github.io/peilinyang//files/Inequality.pdf). 2022.
 
 [Maximize the Efﬁciency of Healthcare Matching: a Simple Modiﬁcation](https://tteclinc.github.io/peilinyang//files/Healthcare_matching.pdf). 2022. _a technical note on health care resources allocation system during pandemic_.
