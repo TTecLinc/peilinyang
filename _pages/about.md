@@ -11,6 +11,12 @@ redirect_from:
 
 Hello, I'm Peilin. My research interests are centered in macroeconomics, international economics and finance. 
 
+Currently, I'm interested in topics:
+
+1) Introduce cutting-edge statistics toolkit "Conformal Inference" into economics applications like policy evaluation, instrumental variables, and VAR;
+2) How news intertwines with agents in the economy and identification of exogenous effect of news shock;
+3) Macroprudential policy to solve demand externality of international financial arbitrage;
+
 ### Publications
 
 [Numerical solution and parameter estimation for uncertain SIR model with application to COVID-19 pandemic](https://tteclinc.github.io/peilinyang//files/UncertaintySIR.pdf) (with Xiaowei Chen, Jing Li, Chen Xiao). 2020. *Fuzzy Optimization and Decision Making*
