@@ -14,7 +14,9 @@ Hello, I'm Peilin. My research interests are centered in macroeconomics, interna
 Currently, I'm interested in topics:
 
 1) Introduce cutting-edge statistics toolkit "Conformal Inference" into economics applications like policy evaluation, instrumental variables, and VAR;
+
 2) How news intertwines with agents in the economy and identification of exogenous effect of news shock;
+
 3) Macroprudential policy to solve demand externality of international financial arbitrage;
 
 ### Publications
