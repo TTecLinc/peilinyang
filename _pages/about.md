@@ -9,11 +9,11 @@ redirect_from:
 ---
 ------
 
-Hello, I'm Peilin. My research interests are centered in macroeconomics, international economics and finance. 
+Hello, I'm Peilin. 
 
 Currently, I'm interested in topics:
 
-1) Introduce cutting-edge statistics toolkit "Conformal Inference" into economics applications like policy evaluation, instrumental variables, and VAR;
+1) Casual Inference toolkits for policy evaluation, instrumental variables, and VAR;
 
 2) How news intertwines with agents in the economy and identification of exogenous effect of news shock;
 
