@@ -17,7 +17,11 @@ Currently, I'm interested in topics:
 
 2) How news intertwines with agents in the economy and identification of exogenous effect of news shock;
 
-3) Macroprudential policy to solve demand externality of international financial arbitrage;
+3) Macro development and spatial economics;
+
+4) Macroprudential policy to solve demand externality of international financial arbitrage;
+
+
 
 ### Publications
 
