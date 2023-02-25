@@ -40,3 +40,7 @@ Currently, I'm interested in topics:
 Narratives Business Cycle: Neoclassical or Production Networks? 2022.
 
 Open-Economy Macroprudential Policy: International Financial Arbitrage Channel. 2022.
+
+### Technical Notes
+
+[Technical Notes of Mean Field Games Planning and Optimal Transport Problem](https://tteclinc.github.io/peilinyang//files/MFGOT.pdf). 2022.
