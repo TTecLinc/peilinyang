@@ -1,8 +1,27 @@
 ---
-permalink: /research/
-title: Research
-
+permalink: /
+title: "About"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
+------
+
+Hello, I'm Peilin. 
+
+Currently, I'm interested in topics:
+
+1) Casual Inference toolkits for policy evaluation, instrumental variables, and VAR;
+
+2) How news intertwines with agents in the economy and identification of exogenous effect of news shock;
+
+3) Macro development and spatial economics;
+
+4) Macroprudential policy to solve demand externality of international financial arbitrage;
+
+
 
 ### Publications
 
@@ -21,3 +40,7 @@ title: Research
 Narratives Business Cycle: Neoclassical or Production Networks? 2022.
 
 Open-Economy Macroprudential Policy: International Financial Arbitrage Channel. 2022.
+
+### Technical Notes
+
+[Technical Notes of Mean Field Games Planning and Optimal Transport Problem](https://tteclinc.github.io/peilinyang//files/MFGOT.pdf). 2022.
