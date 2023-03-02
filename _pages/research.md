@@ -15,7 +15,7 @@ Currently, I'm interested in topics:
 
 1) Casual Inference toolkits for policy evaluation, instrumental variables, and VAR;
 
-2) How news intertwines with agents in the economy and identification of exogenous effect of news shock;
+2) Behavioral and information economics;
 
 3) Macro development and spatial economics;
 
