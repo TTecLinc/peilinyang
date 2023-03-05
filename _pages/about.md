@@ -13,13 +13,12 @@ Hello, I'm Peilin.
 
 Currently, I'm interested in topics:
 
-1) Casual Inference toolkits for policy evaluation, instrumental variables, and VAR;
 
-2) Behavioral and information economics;
+1) Behavioral, information and experimental economics;
 
-3) Macro development and spatial economics;
+2) Macro development and spatial economics;
 
-4) Macroprudential policy to solve demand externality of international financial arbitrage;
+3) Macroprudential policy to solve demand externality of international financial arbitrage;
 
 
 
@@ -31,7 +30,7 @@ Currently, I'm interested in topics:
 
 [Industry Structure and Wage Inequality during Pandemic](https://tteclinc.github.io/peilinyang//files/Inequality.pdf). 2022.
 
-[Conformal Inference for Heterogeneous Policy Effect](https://tteclinc.github.io/peilinyang//files/RP_conformal.pdf) (with Jiayi Cheng). 2022. _proposal of introducing conformal inference into the toolkit of policy evaluation_.
+[Conformal Inference for Heterogeneous Policy Effect](https://tteclinc.github.io/peilinyang//files/RP_conformal.pdf) (with Jiayi Cheng). 2022. _proposal of introducing conformal inference into the toolkit of experiment evaluation_.
 
 [Maximize the Efﬁciency of Healthcare Matching: a Simple Modiﬁcation](https://tteclinc.github.io/peilinyang//files/Healthcare_matching.pdf). 2022. _a technical note on health care resources allocation system during pandemic_.
 
