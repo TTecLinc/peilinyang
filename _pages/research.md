@@ -11,14 +11,7 @@ redirect_from:
 
 Hello, I'm Peilin. 
 
-Currently, I'm interested in topics:
-
-
-1) Behavioral, information and experimental economics;
-
-2) Macro development and spatial economics;
-
-3) Macroprudential policy to solve demand externality of international financial arbitrage;
+I'm interested in behavioral, macro, experimental methods in economics.
 
 
 
@@ -36,7 +29,7 @@ Currently, I'm interested in topics:
 
 ### Works in Progress
 
-Narratives Business Cycle: Neoclassical or Production Networks? 2022.
+Narratives Business Cycle: Diagnostic Expectations in Production Networks. 2022.
 
 Open-Economy Macroprudential Policy: International Financial Arbitrage Channel. 2022.
 
