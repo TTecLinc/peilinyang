@@ -11,7 +11,7 @@ redirect_from:
 
 Hello, I'm Peilin. 
 
-I'm interested in behavioral, macro, experimental methods in economics.
+I'm interested in behavioral, macro, experimental methods and development in economics.
 
 
 
