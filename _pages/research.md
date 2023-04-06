@@ -11,8 +11,14 @@ redirect_from:
 
 Hello, I'm Peilin. 
 
-I'm interested in behavioral, macro, experimental methods and development in economics.
+Always keep up enthusiasm for utilizing a variety of tools to explore the phenomena of the real world!
 
+### Research Interests
+- Macroeconomics
+- Macro Development
+- Behavioral
+- Casual Inference
+- Continuous-Time Control, Mean Field Games
 
 
 ### Publications
