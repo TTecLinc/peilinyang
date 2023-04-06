@@ -11,7 +11,7 @@ redirect_from:
 
 Hello, I'm Peilin. 
 
-Always keep up enthusiasm for utilizing a variety of tools to explore the phenomena of the real world!
+_Stay hungry. Stay foolish. Always keep up enthusiasm for utilizing a variety of tools to explore the phenomena of the real world!_
 
 ### Research Interests
 - Macroeconomics
