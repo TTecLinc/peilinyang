@@ -27,8 +27,6 @@ _Stay hungry. Stay foolish. Always keep up enthusiasm for utilizing a variety of
 
 ### Working Paper
 
-[Human Capital Growth in the Framework of Mean Field Games with Common Noise](https://tteclinc.github.io/peilinyang//files/MFG_HC.pdf). 2023. _preliminary idea of economic growth model that incorporates common noise into human capital accumulation_
-
 [Industry Structure and Wage Inequality during Pandemic](https://tteclinc.github.io/peilinyang//files/Inequality.pdf). 2022.
 
 [Conformal Inference for Heterogeneous Policy Effect](https://tteclinc.github.io/peilinyang//files/RP_conformal.pdf) (with Jiayi Cheng). 2022. _proposal of introducing conformal inference into the toolkit of experiment evaluation_.
@@ -36,6 +34,8 @@ _Stay hungry. Stay foolish. Always keep up enthusiasm for utilizing a variety of
 [Maximize the Efﬁciency of Healthcare Matching: a Simple Modiﬁcation](https://tteclinc.github.io/peilinyang//files/Healthcare_matching.pdf). 2022. _a technical note on health care resources allocation system during pandemic_.
 
 ### Works in Progress
+
+Economics Growth with Common Noise. 2023. _preliminary idea of economic growth model that incorporates common noise into human capital accumulation_
 
 Narratives Business Cycle: Diagnostic Expectations in Production Networks. 2022.
 
