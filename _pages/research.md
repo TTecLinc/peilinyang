@@ -41,6 +41,4 @@ Narratives Business Cycle: Diagnostic Expectations in Production Networks. 2022.
 
 Open-Economy Macroprudential Policy: International Financial Arbitrage Channel. 2022.
 
-### Technical Notes
-
-[Technical Notes of Mean Field Games Planning and Optimal Transport Problem](https://tteclinc.github.io/peilinyang//files/MFGOT.pdf). 2022.
+Distribution-Driven Fiscal Policy. 2022. _Utilization of Optimal Transportation theory for transferring agents from one wealth distribution to another_
