@@ -41,4 +41,4 @@ Narratives Business Cycle: Diagnostic Expectations in Production Networks. 2022.
 
 Open-Economy Macroprudential Policy: International Financial Arbitrage Channel. 2022.
 
-Distribution-Driven Fiscal Policy. 2022. _Utilization of Optimal Transportation theory for transferring agents from one wealth distribution to another_
+Distribution-Driven Fiscal Policy. 2022. _Utilization of Optimal Transportation theory for transferring agents from one wealth distribution to another to resolve Inequality_
