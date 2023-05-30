@@ -29,9 +29,7 @@ _Stay hungry. Stay foolish. Always keep up enthusiasm for utilizing a variety of
 
 [Industry Structure and Wage Inequality during Pandemic](https://tteclinc.github.io/peilinyang//files/Inequality.pdf). 2022.
 
-[Conformal Inference for Heterogeneous Policy Effect](https://tteclinc.github.io/peilinyang//files/RP_conformal.pdf) (with Jiayi Cheng). 2022. _proposal of introducing conformal inference into the toolkit of experiment evaluation_.
-
-[Maximize the Efﬁciency of Healthcare Matching: a Simple Modiﬁcation](https://tteclinc.github.io/peilinyang//files/Healthcare_matching.pdf). 2022. _a technical note on health care resources allocation system during pandemic_.
+[Maximize the Efficiency of Healthcare Matching: a Simple Modification](https://tteclinc.github.io/peilinyang//files/Healthcare_matching.pdf). 2022. _a technical note on health care resources allocation system during pandemic_.
 
 ### Works in Progress
 
