@@ -35,7 +35,7 @@ _Stay hungry. Stay foolish. Always keep up enthusiasm for utilizing a variety of
 
 [Economic Growth with Common Noise](https://tteclinc.github.io/peilinyang//files/MFG_HC.pdf). 2023. _preliminary idea of economic growth model that incorporates common noise into human capital accumulation_
 
-Narratives Business Cycle: Diagnostic Expectations in Production Networks. 2022.
+[Conformal Inference for Continuous Treatment Effect](https://tteclinc.github.io/peilinyang//files/RP_conformal.pdf). 2023. _preliminary idea of causal inference framework of policy evaluation_
 
 Open-Economy Macroprudential Policy: International Financial Arbitrage Channel. 2022.
 
