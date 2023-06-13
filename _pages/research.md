@@ -37,6 +37,6 @@ _Stay hungry. Stay foolish. Always keep up enthusiasm for utilizing a variety of
 
 [Conformal Inference for Continuous Treatment Effect](https://tteclinc.github.io/peilinyang//files/RP_conformal.pdf). 2023. _preliminary idea of causal inference framework of policy evaluation_
 
-Open-Economy Macroprudential Policy: International Financial Arbitrage Channel. 2022.
+[Open-Economy Macroprudential Policy: International Financial Arbitrage Channel](https://tteclinc.github.io/peilinyang//files/Macroprodential0612.pdf). 2022.
 
 Distribution-Driven Fiscal Policy. 2022. _Utilization of Optimal Transportation theory for transferring agents from one wealth distribution to another to resolve Inequality_
