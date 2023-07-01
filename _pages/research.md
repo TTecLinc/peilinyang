@@ -14,11 +14,8 @@ Hello, I'm Peilin.
 _Stay hungry. Stay foolish. Always keep up enthusiasm for utilizing a variety of tools to explore the phenomena of the real world!_
 
 ### Research Interests
-- Macroeconomics
 - Macro Development
-- Behavioral
 - Casual Inference
-- Continuous-Time Control, Mean Field Games
 
 
 ### Publications
