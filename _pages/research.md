@@ -13,8 +13,7 @@ Hello, I'm Peilin. My email: yang.peilinc@gmail.com
 
 _Stay hungry. Stay foolish. Always keep up enthusiasm for utilizing a variety of tools to explore the phenomena of the real world!_
 
-### Research Interests
-- Casual Inference
+I am interested in research related to causal inference.
 
 
 ### Publications
