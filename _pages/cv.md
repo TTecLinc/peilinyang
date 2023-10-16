@@ -9,11 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV](https://tteclinc.github.io/peilinyang//files/CV.pdf)
+Download CV
   
-Skills
-======
-* Highly Proficient
-  * Python, MATLAB, Stata, R (ArcGIS, GeoDa), Julia
-* Familiar
-  * ArcGIS, C++, GAUSS, HTML, SQL
