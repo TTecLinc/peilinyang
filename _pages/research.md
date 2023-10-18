@@ -22,7 +22,7 @@ I am interested in research related to causal inference.
 
 ### Drafts
 
-[Conformal Inference for Continuous Treatment Effect](https://tteclinc.github.io/peilinyang//files/RP_conformal.pdf). 2023. _preliminary idea of causal inference framework of policy evaluation_
+[Conformal Inference for Continuous Treatment Effect](https://tteclinc.github.io/peilinyang//files/RP_conformal.pdf) (with Jiayi Cheng). 2023. _preliminary idea of causal inference framework of policy evaluation_
 
 [Industry Structure and Wage Inequality during Pandemic](https://tteclinc.github.io/peilinyang//files/Inequality.pdf). 2022.
 
