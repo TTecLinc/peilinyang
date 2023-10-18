@@ -26,6 +26,9 @@ I am interested in research related to causal inference.
 
 [Industry Structure and Wage Inequality during Pandemic](https://tteclinc.github.io/peilinyang//files/Inequality.pdf). 2022.
 
+
+
+### Inactive Drafts
 [Maximize the Efficiency of Healthcare Matching: a Simple Modification](https://tteclinc.github.io/peilinyang//files/Healthcare_matching.pdf). 2022. _a technical note on health care resources allocation system during pandemic_.
 
 [Economic Growth with Common Noise](https://tteclinc.github.io/peilinyang//files/MFG_HC.pdf). 2023. _preliminary idea of economic growth model that incorporates common noise into human capital accumulation_
