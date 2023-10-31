@@ -20,18 +20,9 @@ I am interested in research related to causal inference.
 
 [Numerical solution and parameter estimation for uncertain SIR model with application to COVID-19 pandemic](https://tteclinc.github.io/peilinyang//files/UncertaintySIR.pdf) (with Xiaowei Chen, Jing Li, Chen Xiao). 2020. *Fuzzy Optimization and Decision Making*
 
-### Drafts
-
-[Conformal Inference for Continuous Treatment Effect](https://tteclinc.github.io/peilinyang//files/RP_conformal.pdf) (with Jiayi Cheng). 2023. _preliminary idea of causal inference framework of policy evaluation_
-
-[Industry Structure and Wage Inequality during Pandemic](https://tteclinc.github.io/peilinyang//files/Inequality.pdf). 2022.
-
-
 
 ### Inactive Drafts
 [Maximize the Efficiency of Healthcare Matching: a Simple Modification](https://tteclinc.github.io/peilinyang//files/Healthcare_matching.pdf). 2022. _a technical note on health care resources allocation system during pandemic_.
 
-[Economic Growth with Common Noise](https://tteclinc.github.io/peilinyang//files/MFG_HC.pdf). 2023. _preliminary idea of economic growth model that incorporates common noise into human capital accumulation_
-
-[Open-Economy Macroprudential Policy: International Financial Arbitrage Channel](https://tteclinc.github.io/peilinyang//files/Macroprodential0612.pdf). 2022.
+[Industry Structure and Wage Inequality during Pandemic](https://tteclinc.github.io/peilinyang//files/Inequality.pdf). 2022.
 
