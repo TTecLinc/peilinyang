@@ -24,7 +24,7 @@ My research intersects health economics, biostatistics.
 
 How to Use Cluster Conformal Inference to Improve Prediction: Evidence from a Health Policy Field Experiment. 2024. (with Lambert Zixin Li)
 
-### Drafts
+### Working Papers
 [Maximize the Efficiency of Healthcare Matching: a Simple Modification](https://tteclinc.github.io/peilinyang//files/Healthcare_matching.pdf). 2022. _a technical note on health care resources allocation system during pandemic_.
 
 [Industry Structure and Wage Inequality during Pandemic](https://tteclinc.github.io/peilinyang//files/Inequality.pdf). 2022.
