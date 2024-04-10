@@ -83,7 +83,7 @@ author:
   name             : "Peilin Yang"
   avatar           : "profile.png"
   bio              : "Researcher"
-  location         : "Barcelona"
+  # location         : "Barcelona"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=zMqavbAAAAAJ"
