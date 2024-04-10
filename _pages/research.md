@@ -9,11 +9,11 @@ redirect_from:
 ---
 ------
 
-Hello, I'm Peilin. My email: yang.peilinc@gmail.com
+Hello, I'm Peilin. My email: peilin.yang@upf.edu; peiliny@stanford.edu
 
 I am a Research Fellow, working with Jan Eeckhout, the President of the European Economic Association, and supported by the European Research Council. I have studied and worked at Stanford University.
 
-My research intersects health economics, biostatistics.
+My research intersects health economics and biostatistics.
 
 
 ### Publications
@@ -22,7 +22,7 @@ My research intersects health economics, biostatistics.
 
 ### Work in Progress
 
-How to Use Cluster Conformal Inference to Improve Prediction: Evidence from a Health Policy Field Experiment. 2024. (with Lambert Zixin Li)
+How to Use Cluster Conformal Inference to Improve Prediction: Evidence from a Health Policy Field Experiment. 2024.
 
 ### Working Papers
 [Maximize the Efficiency of Healthcare Matching: a Simple Modification](https://tteclinc.github.io/peilinyang//files/Healthcare_matching.pdf). 2022. _a technical note on health care resources allocation system during pandemic_.
