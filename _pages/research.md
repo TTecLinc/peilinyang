@@ -13,7 +13,7 @@ Hello, I'm Peilin. My email: peilin.yang@upf.edu; peiliny@stanford.edu
 
 I am a Research Fellow, working with Jan Eeckhout, the President of the European Economic Association, and supported by the European Research Council. I have studied and worked at Stanford University.
 
-My research intersects health economics and biostatistics.
+My research intersects health economics and statistics.
 
 
 ### Publications
