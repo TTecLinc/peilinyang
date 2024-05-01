@@ -20,9 +20,6 @@ My research intersects health economics and statistics.
 
 [Numerical solution and parameter estimation for uncertain SIR model with application to COVID-19 pandemic](https://tteclinc.github.io/peilinyang//files/UncertaintySIR.pdf) (with Xiaowei Chen, Jing Li, Chen Xiao). 2020. *Fuzzy Optimization and Decision Making*
 
-### Work in Progress
-
-How to Use Cluster Conformal Inference to Improve Prediction: Evidence from a Health Policy Field Experiment. 2024.
 
 ### Working Papers
 [Maximize the Efficiency of Healthcare Matching: a Simple Modification](https://tteclinc.github.io/peilinyang//files/Healthcare_matching.pdf). 2022. _a technical note on health care resources allocation system during pandemic_.
