@@ -11,7 +11,7 @@ redirect_from:
 
 Hi, I'm Peilin. My email: yang.peilinc@gmail.com
 
-My research intersects health economics, development, field experiment and statistics.
+My research intersects health economics, marketing, field experiment and statistics.
 
 
 ### Publications
