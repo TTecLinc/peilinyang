@@ -16,7 +16,7 @@ My research intersects health economics, marketing, field experiment and statist
 
 ### Publications
 
-[Nurse Burnout and Patient Safety, Satisfaction, and Quality of Care: A Meta-Analysis](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2825639). 2024. Lambert Zixin Li, Peilin Yang, Sara J. Singer, Jeffrey Pfeffer, Maya Mathur, Tait Shanafelt.
+[Nurse Burnout and Patient Safety, Satisfaction, and Quality of Care: A Meta-Analysis](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2825639). Lambert Zixin Li, Peilin Yang, Sara J. Singer, Jeffrey Pfeffer, Maya Mathur, Tait Shanafelt. 2024.
 *JAMA Network Open*
 
 [Artificial intelligence for neurodiversity](https://doi.org/10.1136/bmj.q1384) (with Lambert Zixin Li). 2024. *the BMJ: British Medical Journal*
