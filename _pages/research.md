@@ -11,8 +11,6 @@ redirect_from:
 
 Hi, I'm Peilin. My email: yang.peilinc@gmail.com
 
-My research intersects health, behavioral sciences, and statistics.
-
 
 ### Publications
 
