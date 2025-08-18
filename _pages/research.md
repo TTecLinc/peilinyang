@@ -24,8 +24,3 @@ Hi, I'm Peilin. My email: yang.peilinc@gmail.com
 
 ### Working Papers
 [Conformal Causal Inference for Network Intervention: Evidence from Field Experiments](https://tteclinc.github.io/peilinyang//files/Conformal_Cluster.pdf). 2024. _Presented at 2024 Stanford Data Science Conference_
-
-[Maximize the Efficiency of Healthcare Matching: a Simple Modification](https://tteclinc.github.io/peilinyang//files/Healthcare_matching.pdf). 2022. _a technical note on health care resources allocation system during pandemic_.
-
-[Industry Structure and Wage Inequality during Pandemic](https://tteclinc.github.io/peilinyang//files/Inequality.pdf). 2022.
-
